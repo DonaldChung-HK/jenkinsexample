@@ -14,7 +14,7 @@ pipeline {
 	stages {
         stage('Build') {
             steps {
-                cmake arguments: '-DCMAKE_TOOLCHAIN_FILE=/var/jenkins_home/x64-linux.cmake', installation: 'InSearchPath'
+                cmake installation: 'InSearchPath'
                 cmakeBuild buildType: 'Release', cleanBuild: true, installation: 'InSearchPath', steps: [[withCmake: true]]
             }
         }
