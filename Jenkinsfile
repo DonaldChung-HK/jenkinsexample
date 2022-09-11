@@ -16,36 +16,10 @@ pipeline {
             steps {
                 cmake arguments: '-DCMAKE_TOOLCHAIN_FILE=~/x64-linux.cmake', installation: 'InSearchPath'
                 cmakeBuild buildType: 'Release', cleanBuild: true, installation: 'InSearchPath', steps: [[withCmake: true]]
-            }
-        }
-
-        stage('Test') {
-            when {
-                environment name: 'RUN_TESTS', value: 'true'
-            }
-            steps {
                 ctest 'InSearchPath'
+                logstashSend failBuild: false, maxLines: 100000
             }
         }
 
-        stage('Analyse') {
-            when {
-                environment name: 'RUN_ANALYSIS', value: 'true'
-            }
-            steps {
-                sh label: '', returnStatus: true, script: 'cppcheck . --xml --language=c++ --suppressions-list=suppressions.txt 2> cppcheck-result.xml'
-                publishCppcheck allowNoReport: true, ignoreBlankFiles: true, pattern: '**/cppcheck-result.xml'
-            }
-        }
-
-        stage('Deploy') {
-            when {
-                environment name: 'DEPLOY', value: 'true'
-            }
-            steps {
-                sh label: '', returnStatus: true, script: '''cp jenkinsexample ~
-                cp test/testPro ~'''
-            }
-        }
 	}
 }
