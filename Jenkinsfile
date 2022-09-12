@@ -14,7 +14,7 @@ pipeline {
 	stages {
         stage('Build') {
             steps {
-                cat ./Multiline-log.txt
+                sh "cat ./Multiline-log.txt"
                 logstashSend failBuild: false, maxLines: 100000
             }
         }
