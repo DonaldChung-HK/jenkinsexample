@@ -1,0 +1,508 @@
+   Site: 
+   Build name: (empty)
+Test project /home/donald/mantid/build
+          Start 1487: python.algorithms.CorrectLogTimesTest.CorrectLogTimesTest
+          Start 1651: python.WorkflowAlgorithms.LoadWANDTest.LoadWANDTest
+          Start  486: APITest_AnalysisDataServiceTest
+          Start 1818: MDAlgorithmsTest_AccumulateMDTest
+          Start 1538: python.algorithms.LoadLiveDataTest.LoadLiveDataTest
+          Start 2103: mantidqt_qt5.test_tableworkspacedisplay_error_column.test_tableworkspacedisplay_error_column
+          Start 1340: python.kernel.IPropertySettingsTest.IPropertySettingsTest
+          Start 2049: mantidqt_qt5.test_curveproperties.test_curveproperties
+   1/2592 Test #1340: python.kernel.IPropertySettingsTest.IPropertySettingsTest ....................................................................................   Passed    0.75 sec
+          Start 1745: PythonInterfaceCppTest_PythonStdoutChannelTest
+   2/2592 Test #1818: MDAlgorithmsTest_AccumulateMDTest ............................................................................................................   Passed    1.34 sec
+          Start 1997: mantidqt_qt5.test_plotsloader.test_plotsloader
+   3/2592 Test #1745: PythonInterfaceCppTest_PythonStdoutChannelTest ...............................................................................................   Passed    1.19 sec
+          Start  960: DataHandlingTest_RemoveLogsTest
+   4/2592 Test #2049: mantidqt_qt5.test_curveproperties.test_curveproperties .......................................................................................   Passed    3.23 sec
+          Start  365: AlgorithmsTest_MostLikelyMeanTest
+   5/2592 Test  #960: DataHandlingTest_RemoveLogsTest ..............................................................................................................   Passed    1.47 sec
+          Start 1520: python.algorithms.HB2AReduceTest.HB2AReduceTest
+   6/2592 Test #2103: mantidqt_qt5.test_tableworkspacedisplay_error_column.test_tableworkspacedisplay_error_column .................................................   Passed    4.25 sec
+          Start  720: CurveFittingTest_FunctionDomain1DSpectrumCreatorTest
+   7/2592 Test  #365: AlgorithmsTest_MostLikelyMeanTest ............................................................................................................   Passed    1.11 sec
+          Start 1930: MantidQtWidgetsCommonTestQt5_FileDialogHandlerTest
+   8/2592 Test  #720: CurveFittingTest_FunctionDomain1DSpectrumCreatorTest .........................................................................................   Passed    1.41 sec
+          Start 1257: ICatTest_CatalogSearchTest
+   9/2592 Test #1930: MantidQtWidgetsCommonTestQt5_FileDialogHandlerTest ...........................................................................................   Passed    1.68 sec
+          Start  607: CrystalTest_ConnectedComponentLabelingTest
+  10/2592 Test #1997: mantidqt_qt5.test_plotsloader.test_plotsloader ...............................................................................................   Passed    4.83 sec
+          Start 1923: MDAlgorithmsTest_BinaryOperationMDTest
+  11/2592 Test #1257: ICatTest_CatalogSearchTest ...................................................................................................................   Passed    1.02 sec
+          Start 1021: DataObjectsTest_CoordTransformAffineParserTest
+  12/2592 Test  #486: APITest_AnalysisDataServiceTest ..............................................................................................................   Passed    7.24 sec
+          Start  355: AlgorithmsTest_MayersSampleCorrectionStrategyTest
+  13/2592 Test #1923: MDAlgorithmsTest_BinaryOperationMDTest .......................................................................................................   Passed    1.27 sec
+          Start 1119: GeometryTest_HKLFilterWavelengthTest
+  14/2592 Test #1021: DataObjectsTest_CoordTransformAffineParserTest ...............................................................................................   Passed    0.84 sec
+          Start 2251: python.MuonQt5.plotting_canvas_view_test.plotting_canvas_view_test
+  15/2592 Test  #607: CrystalTest_ConnectedComponentLabelingTest ...................................................................................................   Passed    1.57 sec
+          Start  448: AlgorithmsTest_StripPeaksTest
+  16/2592 Test #1119: GeometryTest_HKLFilterWavelengthTest .........................................................................................................   Passed    1.44 sec
+          Start  840: DataHandlingTest_DefineGaugeVolumeTest
+  17/2592 Test #1538: python.algorithms.LoadLiveDataTest.LoadLiveDataTest ..........................................................................................   Passed    9.02 sec
+          Start 2038: mantidqt_qt5.test_codeeditor_tab_presenter.test_codeeditor_tab_presenter
+  18/2592 Test  #448: AlgorithmsTest_StripPeaksTest ................................................................................................................   Passed    1.66 sec
+          Start  858: DataHandlingTest_InstrumentRayTracerTest
+  19/2592 Test #1487: python.algorithms.CorrectLogTimesTest.CorrectLogTimesTest ....................................................................................   Passed    9.47 sec
+          Start  270: AlgorithmsTest_DivideTest
+  20/2592 Test  #840: DataHandlingTest_DefineGaugeVolumeTest .......................................................................................................   Passed    1.14 sec
+          Start  856: DataHandlingTest_ISISJournalTest
+  21/2592 Test  #858: DataHandlingTest_InstrumentRayTracerTest .....................................................................................................   Passed    1.04 sec
+          Start 1917: MDAlgorithmsTest_TransformMDTest
+  22/2592 Test  #355: AlgorithmsTest_MayersSampleCorrectionStrategyTest ............................................................................................   Passed    3.70 sec
+          Start 2210: python.MuonQt5.loadfile_model_test.loadfile_model_test
+  23/2592 Test  #856: DataHandlingTest_ISISJournalTest .............................................................................................................   Passed    1.49 sec
+          Start  683: CurveFittingTest_QENSFitSequentialTest
+  24/2592 Test #1917: MDAlgorithmsTest_TransformMDTest .............................................................................................................   Passed    2.47 sec
+          Start 1454: python.plots.UtilityTest.UtilityTest
+  25/2592 Test  #683: CurveFittingTest_QENSFitSequentialTest .......................................................................................................   Passed    3.26 sec
+          Start 2444: python.scripts.pystog.test_transformer.test_transformer
+  26/2592 Test  #270: AlgorithmsTest_DivideTest ....................................................................................................................   Passed    5.46 sec
+          Start 1929: MantidQtWidgetsCommonTestQt5_BatchAlgorithmRunnerTest
+  27/2592 Test #2038: mantidqt_qt5.test_codeeditor_tab_presenter.test_codeeditor_tab_presenter .....................................................................   Passed    5.91 sec
+          Start  846: DataHandlingTest_ExtractMonitorWorkspaceTest
+  28/2592 Test #1520: python.algorithms.HB2AReduceTest.HB2AReduceTest ..............................................................................................   Passed   12.29 sec
+          Start 1879: MDAlgorithmsTest_LoadMDTest
+  29/2592 Test  #846: DataHandlingTest_ExtractMonitorWorkspaceTest .................................................................................................   Passed    1.20 sec
+          Start 1836: MDAlgorithmsTest_ConvertSpiceDataToRealSpaceTest
+  30/2592 Test #1929: MantidQtWidgetsCommonTestQt5_BatchAlgorithmRunnerTest ........................................................................................   Passed    2.29 sec
+          Start 1925: ScriptRepositoryTest_ScriptRepositoryTestImpl
+  31/2592 Test #1925: ScriptRepositoryTest_ScriptRepositoryTestImpl ................................................................................................   Passed    2.08 sec
+          Start 2266: python.MuonQt5.muon_base_pair_test.muon_base_pair_test
+  32/2592 Test #1836: MDAlgorithmsTest_ConvertSpiceDataToRealSpaceTest .............................................................................................   Passed    5.51 sec
+          Start 1124: GeometryTest_IMDDimensionTest
+  33/2592 Test #1124: GeometryTest_IMDDimensionTest ................................................................................................................   Passed    1.07 sec
+          Start 1130: GeometryTest_IsotropicAtomBraggScattererTest
+  34/2592 Test #2251: python.MuonQt5.plotting_canvas_view_test.plotting_canvas_view_test ...........................................................................   Passed   15.71 sec
+          Start 1609: python.WorkflowAlgorithms.BayesQuasiTest.BayesQuasiTest
+  35/2592 Test #1130: GeometryTest_IsotropicAtomBraggScattererTest .................................................................................................   Passed    0.95 sec
+          Start 2189: python.MuonQt5.tf_asymmetry_fitting_presenter_test.tf_asymmetry_fitting_presenter_test
+  36/2592 Test #1454: python.plots.UtilityTest.UtilityTest .........................................................................................................   Passed   11.52 sec
+          Start 2473: python.scripts.AbinsCalculateQToscaTest.AbinsCalculateQToscaTest
+  37/2592 Test #1879: MDAlgorithmsTest_LoadMDTest ..................................................................................................................   Passed    9.85 sec
+          Start  770: CurveFittingTest_GramCharlierComptonProfileTest
+  38/2592 Test #2210: python.MuonQt5.loadfile_model_test.loadfile_model_test .......................................................................................   Passed   15.02 sec
+          Start 1688: python.WorkflowAlgorithms.SwapWidthsTest.SwapWidthsTest
+  39/2592 Test  #770: CurveFittingTest_GramCharlierComptonProfileTest ..............................................................................................   Passed    1.02 sec
+          Start 1099: GeometryTest_ConeTest
+  40/2592 Test #2473: python.scripts.AbinsCalculateQToscaTest.AbinsCalculateQToscaTest .............................................................................   Passed    2.33 sec
+          Start  704: CurveFittingTest_EigenJacobianTest
+  41/2592 Test #1099: GeometryTest_ConeTest ........................................................................................................................   Passed    0.91 sec
+          Start 1761: ReflectometryTest_ReflectometryTransformKiKfTest
+  42/2592 Test  #704: CurveFittingTest_EigenJacobianTest ...........................................................................................................   Passed    0.89 sec
+          Start  113: KernelTest_StdoutChannelTest
+  43/2592 Test #2266: python.MuonQt5.muon_base_pair_test.muon_base_pair_test .......................................................................................   Passed    8.53 sec
+          Start 2448: python.scripts.CrystalFieldMultiSiteTest.CrystalFieldMultiSiteTest
+  44/2592 Test #1761: ReflectometryTest_ReflectometryTransformKiKfTest .............................................................................................   Passed    0.96 sec
+          Start  312: AlgorithmsTest_GetAllEiTest
+  45/2592 Test  #113: KernelTest_StdoutChannelTest .................................................................................................................   Passed    0.98 sec
+          Start  190: AlgorithmsTest_CarpenterSampleCorrectionTest
+  46/2592 Test  #312: AlgorithmsTest_GetAllEiTest ..................................................................................................................   Passed    1.45 sec
+          Start  450: AlgorithmsTest_StripVanadiumPeaksTest
+  47/2592 Test  #190: AlgorithmsTest_CarpenterSampleCorrectionTest .................................................................................................   Passed    1.43 sec
+          Start  648: CrystalTest_SCDCalibratePanelsTest
+  48/2592 Test #1609: python.WorkflowAlgorithms.BayesQuasiTest.BayesQuasiTest ......................................................................................   Passed    8.39 sec
+          Start 2570: python.SANS.state.slice_event_test.slice_event_test
+  49/2592 Test  #450: AlgorithmsTest_StripVanadiumPeaksTest ........................................................................................................   Passed    2.95 sec
+          Start  618: CrystalTest_FindUBUsingMinMaxDTest
+  50/2592 Test #2570: python.SANS.state.slice_event_test.slice_event_test ..........................................................................................   Passed    1.80 sec
+          Start  824: CurveFittingTest_MultiDomainFunctionTest
+  51/2592 Test #2189: python.MuonQt5.tf_asymmetry_fitting_presenter_test.tf_asymmetry_fitting_presenter_test .......................................................   Passed   10.08 sec
+          Start 1201: GeometryTest_SymmetryElementFactoryTest
+  52/2592 Test  #824: CurveFittingTest_MultiDomainFunctionTest .....................................................................................................   Passed    0.91 sec
+          Start 2289: python.scripts.sampletransmissioncalculator.stc_presenter_test.stc_presenter_test
+  53/2592 Test #1201: GeometryTest_SymmetryElementFactoryTest ......................................................................................................   Passed    1.09 sec
+          Start 1395: python.api.AlgorithmFactoryObserverTest.AlgorithmFactoryObserverTest
+  54/2592 Test #2289: python.scripts.sampletransmissioncalculator.stc_presenter_test.stc_presenter_test ............................................................   Passed    1.15 sec
+          Start  381: AlgorithmsTest_PauseTest
+  55/2592 Test  #381: AlgorithmsTest_PauseTest .....................................................................................................................   Passed    1.02 sec
+          Start 1936: MantidQtWidgetsCommonTestQt5_FitScriptGeneratorDataTableTest
+  56/2592 Test #1395: python.api.AlgorithmFactoryObserverTest.AlgorithmFactoryObserverTest .........................................................................   Passed    1.76 sec
+          Start 2248: python.MuonQt5.plotting_canvas_model_test.plotting_canvas_model_test
+  57/2592 Test #1688: python.WorkflowAlgorithms.SwapWidthsTest.SwapWidthsTest ......................................................................................   Passed   12.48 sec
+          Start  394: AlgorithmsTest_QxyTest
+  58/2592 Test #2444: python.scripts.pystog.test_transformer.test_transformer ......................................................................................   Passed   24.63 sec
+          Start 2132: python.MuonQt5.elemental_analysis_test.elemental_analysis_test
+  59/2592 Test #1936: MantidQtWidgetsCommonTestQt5_FitScriptGeneratorDataTableTest .................................................................................   Passed    3.39 sec
+          Start 2284: python.MuonQt5.Subplot_test.Subplot_test
+  60/2592 Test  #394: AlgorithmsTest_QxyTest .......................................................................................................................   Passed    3.18 sec
+          Start 1521: python.algorithms.HB3AAdjustSampleNormTest.HB3AAdjustSampleNormTest
+  61/2592 Test #2248: python.MuonQt5.plotting_canvas_model_test.plotting_canvas_model_test .........................................................................   Passed    9.10 sec
+          Start 1884: MDAlgorithmsTest_MDEventWSWrapperTest
+  62/2592 Test #1884: MDAlgorithmsTest_MDEventWSWrapperTest ........................................................................................................   Passed    1.22 sec
+          Start  728: CurveFittingTest_BackToBackExponentialTest
+  63/2592 Test  #728: CurveFittingTest_BackToBackExponentialTest ...................................................................................................   Passed    0.99 sec
+          Start  467: AlgorithmsTest_VesuvioL1ThetaResolutionTest
+  64/2592 Test #2284: python.MuonQt5.Subplot_test.Subplot_test .....................................................................................................   Passed    9.21 sec
+          Start  176: AlgorithmsTest_CalculateDIFCTest
+  65/2592 Test  #467: AlgorithmsTest_VesuvioL1ThetaResolutionTest ..................................................................................................   Passed    2.57 sec
+          Start 2494: python.corelli.calibration.test_all.test_all
+  66/2592 Test  #176: AlgorithmsTest_CalculateDIFCTest .............................................................................................................   Passed    1.97 sec
+          Start  330: AlgorithmsTest_InterpolatingRebinTest
+  67/2592 Test  #330: AlgorithmsTest_InterpolatingRebinTest ........................................................................................................   Passed    1.90 sec
+          Start  302: AlgorithmsTest_FitPeakTest
+  68/2592 Test  #302: AlgorithmsTest_FitPeakTest ...................................................................................................................   Passed    1.90 sec
+          Start 2528: python.SANS.command_interface.isis_command_interface_test.isis_command_interface_test
+  69/2592 Test #2494: python.corelli.calibration.test_all.test_all .................................................................................................   Passed    9.19 sec
+          Start 2009: mantidqt_qt5.test_line_edit_double_validator.test_line_edit_double_validator
+  70/2592 Test #2132: python.MuonQt5.elemental_analysis_test.elemental_analysis_test ...............................................................................   Passed   22.69 sec
+          Start 1424: python.api.MultipleExperimentInfos.MultipleExperimentInfos
+  71/2592 Test #2009: mantidqt_qt5.test_line_edit_double_validator.test_line_edit_double_validator .................................................................   Passed    2.55 sec
+          Start 1701: python.functions.CombGaussLorentzKTTest.CombGaussLorentzKTTest
+  72/2592 Test #2528: python.SANS.command_interface.isis_command_interface_test.isis_command_interface_test ........................................................   Passed    8.87 sec
+          Start 1188: GeometryTest_RulesUnionTest
+  73/2592 Test #1188: GeometryTest_RulesUnionTest ..................................................................................................................   Passed    1.44 sec
+          Start 2481: python.scripts.AbinsLoadCRYSTALTest.AbinsLoadCRYSTALTest
+  74/2592 Test #1701: python.functions.CombGaussLorentzKTTest.CombGaussLorentzKTTest ...............................................................................   Passed    7.67 sec
+          Start   47: KernelTest_FilteredTimeSeriesPropertyTest
+  75/2592 Test   #47: KernelTest_FilteredTimeSeriesPropertyTest ....................................................................................................   Passed    1.08 sec
+          Start  718: CurveFittingTest_SimplexTest
+  76/2592 Test #1424: python.api.MultipleExperimentInfos.MultipleExperimentInfos ...................................................................................   Passed    9.58 sec
+          Start 1068: DataObjectsTest_SpecialWorkspace2DTest
+  77/2592 Test  #718: CurveFittingTest_SimplexTest .................................................................................................................   Passed    0.83 sec
+          Start 2530: PythonSANSQt5.beam_centre_model_test.beam_centre_model_test
+  78/2592 Test #1068: DataObjectsTest_SpecialWorkspace2DTest .......................................................................................................   Passed    1.17 sec
+          Start 2076: mantidqt_qt5.test_peaksviewer_presenter.test_peaksviewer_presenter
+  79/2592 Test #2076: mantidqt_qt5.test_peaksviewer_presenter.test_peaksviewer_presenter ...........................................................................   Passed    5.31 sec
+          Start 2212: python.MuonQt5.loadfile_presenter_single_file_test.loadfile_presenter_single_file_test
+  80/2592 Test #2530: PythonSANSQt5.beam_centre_model_test.beam_centre_model_test ..................................................................................   Passed    6.44 sec
+          Start   60: KernelTest_ListValidatorTest
+  81/2592 Test #2481: python.scripts.AbinsLoadCRYSTALTest.AbinsLoadCRYSTALTest .....................................................................................   Passed   13.43 sec
+          Start 1480: python.algorithms.ClipPeaksTest.ClipPeaksTest
+  82/2592 Test   #60: KernelTest_ListValidatorTest .................................................................................................................   Passed    0.99 sec
+          Start   83: KernelTest_MutexTest
+  83/2592 Test #2212: python.MuonQt5.loadfile_presenter_single_file_test.loadfile_presenter_single_file_test .......................................................   Passed    9.50 sec
+          Start  573: APITest_SpectraAxisTest
+  84/2592 Test #1480: python.algorithms.ClipPeaksTest.ClipPeaksTest ................................................................................................   Passed   10.42 sec
+          Start  905: DataHandlingTest_LoadMcStasNexusTest
+  85/2592 Test  #905: DataHandlingTest_LoadMcStasNexusTest .........................................................................................................   Passed    2.53 sec
+          Start 1648: python.WorkflowAlgorithms.ISISIndirectEnergyTransferWrapperTest.ISISIndirectEnergyTransferWrapperTest
+  86/2592 Test   #83: KernelTest_MutexTest .........................................................................................................................   Passed   13.74 sec
+          Start  171: AlgorithmsTest_Bin2DPowderDiffractionTest
+  87/2592 Test  #171: AlgorithmsTest_Bin2DPowderDiffractionTest ....................................................................................................   Passed    1.45 sec
+          Start  842: DataHandlingTest_DetermineChunkingTest
+  88/2592 Test  #842: DataHandlingTest_DetermineChunkingTest .......................................................................................................   Passed    1.16 sec
+          Start  419: AlgorithmsTest_ResizeRectangularDetectorTest
+  89/2592 Test  #573: APITest_SpectraAxisTest ......................................................................................................................   Passed    8.65 sec
+          Start 2262: python.MuonQt5.tf_asymmetry_fitting_context_test.tf_asymmetry_fitting_context_test
+  90/2592 Test  #419: AlgorithmsTest_ResizeRectangularDetectorTest .................................................................................................   Passed    1.23 sec
+          Start  676: CurveFittingTest_LeBailFitTest
+  91/2592 Test  #676: CurveFittingTest_LeBailFitTest ...............................................................................................................   Passed    1.82 sec
+          Start 2522: PythonSANS.log_tagger_test.log_tagger_test
+  92/2592 Test #2262: python.MuonQt5.tf_asymmetry_fitting_context_test.tf_asymmetry_fitting_context_test ...........................................................   Passed   10.37 sec
+          Start 1254: ICatTest_CatalogListInvestigationTypesTest
+  93/2592 Test #1254: ICatTest_CatalogListInvestigationTypesTest ...................................................................................................   Passed    2.42 sec
+          Start 2062: mantidqt_qt5.test_sliceviewer_lineplots.test_sliceviewer_lineplots
+  94/2592 Test #2522: PythonSANS.log_tagger_test.log_tagger_test ...................................................................................................   Passed   12.30 sec
+          Start 2126: python.MuonQt5.dead_time_corrections_model_test.dead_time_corrections_model_test
+  95/2592 Test #2062: mantidqt_qt5.test_sliceviewer_lineplots.test_sliceviewer_lineplots ...........................................................................   Passed   10.97 sec
+          Start 1670: python.WorkflowAlgorithms.ResNorm2Test.ResNorm2Test
+  96/2592 Test #2126: python.MuonQt5.dead_time_corrections_model_test.dead_time_corrections_model_test .............................................................   Passed   11.93 sec
+          Start 2252: python.MuonQt5.frequency_analysis_plot_widget_test.frequency_analysis_plot_widget_test
+  97/2592 Test #1670: python.WorkflowAlgorithms.ResNorm2Test.ResNorm2Test ..........................................................................................   Passed   13.52 sec
+          Start  886: DataHandlingTest_LoadILLIndirect2Test
+  98/2592 Test #2252: python.MuonQt5.frequency_analysis_plot_widget_test.frequency_analysis_plot_widget_test .......................................................   Passed   12.00 sec
+          Start 1534: python.algorithms.LoadElementalAnalysisRunTest.LoadElementalAnalysisRunTest
+  99/2592 Test #1648: python.WorkflowAlgorithms.ISISIndirectEnergyTransferWrapperTest.ISISIndirectEnergyTransferWrapperTest ........................................   Passed   43.91 sec
+          Start 1338: python.kernel.HTTPStatusTest.HTTPStatusTest
+ 100/2592 Test #1338: python.kernel.HTTPStatusTest.HTTPStatusTest ..................................................................................................   Passed    1.28 sec
+          Start 2058: mantidqt_qt5.test_base_presenter.test_base_presenter
+ 101/2592 Test  #886: DataHandlingTest_LoadILLIndirect2Test ........................................................................................................   Passed    5.91 sec
+          Start  264: AlgorithmsTest_DetectorEfficiencyVariationTest
+ 102/2592 Test  #264: AlgorithmsTest_DetectorEfficiencyVariationTest ...............................................................................................   Passed    1.04 sec
+          Start 1336: python.kernel.FacilityInfoTest.FacilityInfoTest
+ 103/2592 Test #2058: mantidqt_qt5.test_base_presenter.test_base_presenter .........................................................................................   Passed    4.07 sec
+          Start 1269: IndexingTest_PartitionerTest
+ 104/2592 Test #1534: python.algorithms.LoadElementalAnalysisRunTest.LoadElementalAnalysisRunTest ..................................................................   Passed    6.32 sec
+          Start  565: APITest_ResizeRectangularDetectorHelperTest
+ 105/2592 Test #1336: python.kernel.FacilityInfoTest.FacilityInfoTest ..............................................................................................   Passed    1.11 sec
+          Start 2365: MantidScientificInterfacesISISReflectometryTestQt5_RowTest
+ 106/2592 Test #1269: IndexingTest_PartitionerTest .................................................................................................................   Passed    0.88 sec
+          Start 1008: DataHandlingTest_SaveToSNSHistogramNexusTest
+ 107/2592 Test #1008: DataHandlingTest_SaveToSNSHistogramNexusTest .................................................................................................   Passed    0.82 sec
+          Start 1772: PSISINQTest_LoadFlexiNexusTest
+ 108/2592 Test #2365: MantidScientificInterfacesISISReflectometryTestQt5_RowTest ...................................................................................   Passed    2.54 sec
+          Start 2023: mantidqt_qt5.test_embedded_find_replace_dialog_presenter.test_embedded_find_replace_dialog_presenter
+ 109/2592 Test #2023: mantidqt_qt5.test_embedded_find_replace_dialog_presenter.test_embedded_find_replace_dialog_presenter .........................................   Passed    0.75 sec
+          Start 2017: mantidqt_qt5.test_functionbrowser.test_functionbrowser
+ 110/2592 Test #1772: PSISINQTest_LoadFlexiNexusTest ...............................................................................................................   Passed    2.51 sec
+          Start   51: KernelTest_GlobTest
+ 111/2592 Test   #51: KernelTest_GlobTest ..........................................................................................................................   Passed    1.01 sec
+          Start 1907: MDAlgorithmsTest_SaveIsawQvectorTest
+ 112/2592 Test #1907: MDAlgorithmsTest_SaveIsawQvectorTest .........................................................................................................   Passed    1.23 sec
+          Start 1287: MuonTest_ApplyDeadTimeCorrTest
+ 113/2592 Test  #565: APITest_ResizeRectangularDetectorHelperTest ..................................................................................................   Passed    7.03 sec
+          Start 1766: ReflectometryTest_SpecularReflectionCalculateThetaTest
+ 114/2592 Test #1287: MuonTest_ApplyDeadTimeCorrTest ...............................................................................................................   Passed    1.83 sec
+          Start 1498: python.algorithms.DNSFlippingRatioCorrTest.DNSFlippingRatioCorrTest
+ 115/2592 Test #1766: ReflectometryTest_SpecularReflectionCalculateThetaTest .......................................................................................   Passed    1.05 sec
+          Start  868: DataHandlingTest_LoadDaveGrpTest
+ 116/2592 Test  #868: DataHandlingTest_LoadDaveGrpTest .............................................................................................................   Passed    0.96 sec
+          Start  890: DataHandlingTest_LoadILLSALSATest
+ 117/2592 Test #2017: mantidqt_qt5.test_functionbrowser.test_functionbrowser .......................................................................................   Passed    6.42 sec
+          Start  133: KernelTest_UserStringParserTest
+ 118/2592 Test  #133: KernelTest_UserStringParserTest ..............................................................................................................   Passed    0.83 sec
+          Start  503: APITest_FileBackedExperimentInfoTest
+ 119/2592 Test  #618: CrystalTest_FindUBUsingMinMaxDTest ...........................................................................................................   Passed  120.06 sec
+          Start  147: ParallelTest_ExecutionModeTest
+ 120/2592 Test  #147: ParallelTest_ExecutionModeTest ...............................................................................................................   Passed    0.91 sec
+          Start 1991: mantidqt_qt5.test_spectraselectiondialog.test_spectraselectiondialog
+ 121/2592 Test  #890: DataHandlingTest_LoadILLSALSATest ............................................................................................................   Passed    6.26 sec
+          Start  636: CrystalTest_PeakClusterProjectionTest
+ 122/2592 Test  #636: CrystalTest_PeakClusterProjectionTest ........................................................................................................   Passed    1.57 sec
+          Start  860: DataHandlingTest_LoadAscii2Test
+ 123/2592 Test #1498: python.algorithms.DNSFlippingRatioCorrTest.DNSFlippingRatioCorrTest ..........................................................................   Passed    9.20 sec
+          Start  769: CurveFittingTest_GaussianTest
+ 124/2592 Test  #860: DataHandlingTest_LoadAscii2Test ..............................................................................................................   Passed    0.98 sec
+          Start 1473: python.algorithms.ApplyDetectorScanEffCorrTest.ApplyDetectorScanEffCorrTest
+ 125/2592 Test  #769: CurveFittingTest_GaussianTest ................................................................................................................   Passed    0.82 sec
+          Start 2051: mantidqt_qt5.test_markertabwidget_view.test_markertabwidget_view
+ 126/2592 Test  #503: APITest_FileBackedExperimentInfoTest .........................................................................................................   Passed    8.45 sec
+          Start 2581: python.SANS.user_file.txt_parsers.wavelength_parser_test.wavelength_parser_test
+ 127/2592 Test #1991: mantidqt_qt5.test_spectraselectiondialog.test_spectraselectiondialog .........................................................................   Passed    7.13 sec
+          Start 2457: python.scripts.ReductionSettingsTest.ReductionSettingsTest
+ 128/2592 Test #2581: python.SANS.user_file.txt_parsers.wavelength_parser_test.wavelength_parser_test ..............................................................   Passed    1.08 sec
+          Start 1224: HistogramDataTest_HistogramBuilderTest
+ 129/2592 Test #2051: mantidqt_qt5.test_markertabwidget_view.test_markertabwidget_view .............................................................................   Passed    3.37 sec
+          Start  889: DataHandlingTest_LoadILLReflectometryTest
+ 130/2592 Test #1224: HistogramDataTest_HistogramBuilderTest .......................................................................................................   Passed    0.81 sec
+          Start  857: DataHandlingTest_ISISJournalGetExperimentRunsTest
+ 131/2592 Test  #857: DataHandlingTest_ISISJournalGetExperimentRunsTest ............................................................................................   Passed    0.98 sec
+          Start  597: CrystalTest_AnvredCorrectionTest
+ 132/2592 Test  #597: CrystalTest_AnvredCorrectionTest .............................................................................................................   Passed    0.92 sec
+          Start    6: KernelTest_ArrayBoundedValidatorTest
+ 133/2592 Test    #6: KernelTest_ArrayBoundedValidatorTest .........................................................................................................   Passed    0.93 sec
+          Start 1083: GeometryTest_BasicHKLFiltersTest
+ 134/2592 Test #1083: GeometryTest_BasicHKLFiltersTest .............................................................................................................   Passed    1.02 sec
+          Start  383: AlgorithmsTest_PlusTest
+ 135/2592 Test #2457: python.scripts.ReductionSettingsTest.ReductionSettingsTest ...................................................................................   Passed    8.10 sec
+          Start   26: KernelTest_ConfigPropertyObserverTest
+ 136/2592 Test   #26: KernelTest_ConfigPropertyObserverTest ........................................................................................................   Passed    0.84 sec
+          Start 1441: python.api.WorkspaceHistoryTest.WorkspaceHistoryTest
+ 137/2592 Test  #383: AlgorithmsTest_PlusTest ......................................................................................................................   Passed    3.75 sec
+          Start 1823: MDAlgorithmsTest_CentroidPeaksMD2Test
+ 138/2592 Test #1823: MDAlgorithmsTest_CentroidPeaksMD2Test ........................................................................................................   Passed    1.40 sec
+          Start 2330: MantidScientificInterfacesISISReflectometryTestQt5_InstrumentPresenterTest
+ 139/2592 Test #2330: MantidScientificInterfacesISISReflectometryTestQt5_InstrumentPresenterTest ...................................................................   Passed    2.03 sec
+          Start 2068: mantidqt_qt5.test_sliceviewer_dataview.test_sliceviewer_dataview
+ 140/2592 Test  #889: DataHandlingTest_LoadILLReflectometryTest ....................................................................................................   Passed   11.62 sec
+          Start  432: AlgorithmsTest_SmoothNeighboursTest
+ 141/2592 Test #1441: python.api.WorkspaceHistoryTest.WorkspaceHistoryTest .........................................................................................   Passed    7.18 sec
+          Start 1808: PSISINQTest_UncertainValueTest
+ 142/2592 Test  #432: AlgorithmsTest_SmoothNeighboursTest ..........................................................................................................   Passed    3.18 sec
+          Start 1308: NexusTest_NexusIOHelperTest
+ 143/2592 Test #1808: PSISINQTest_UncertainValueTest ...............................................................................................................   Passed    0.86 sec
+          Start  707: CurveFittingTest_EigenVectorTest
+ 144/2592 Test #1308: NexusTest_NexusIOHelperTest ..................................................................................................................   Passed    0.94 sec
+          Start 1023: DataObjectsTest_CoordTransformAlignedTest
+ 145/2592 Test  #707: CurveFittingTest_EigenVectorTest .............................................................................................................   Passed    0.80 sec
+          Start  871: DataHandlingTest_LoadDiffCalTest
+ 146/2592 Test #1023: DataObjectsTest_CoordTransformAlignedTest ....................................................................................................   Passed    0.82 sec
+          Start  844: DataHandlingTest_DownloadInstrumentTest
+ 147/2592 Test  #871: DataHandlingTest_LoadDiffCalTest .............................................................................................................   Passed    1.26 sec
+          Start 1545: python.algorithms.LoadWANDSCDTest.LoadWANDSCDTest
+ 148/2592 Test  #844: DataHandlingTest_DownloadInstrumentTest ......................................................................................................   Passed    1.63 sec
+          Start 1597: python.algorithms.VesuvioPeakPredictionTest.VesuvioPeakPredictionTest
+ 149/2592 Test #2068: mantidqt_qt5.test_sliceviewer_dataview.test_sliceviewer_dataview .............................................................................   Passed    7.31 sec
+          Start 1910: MDAlgorithmsTest_SaveZODSTest
+ 150/2592 Test #1910: MDAlgorithmsTest_SaveZODSTest ................................................................................................................   Passed    0.91 sec
+          Start 1399: python.api.AnalysisDataServiceTest.AnalysisDataServiceTest
+ 151/2592 Test #1597: python.algorithms.VesuvioPeakPredictionTest.VesuvioPeakPredictionTest ........................................................................   Passed    6.19 sec
+          Start 1509: python.algorithms.ExportSampleLogsToHDF5Test.ExportSampleLogsToHDF5Test
+ 152/2592 Test #1399: python.api.AnalysisDataServiceTest.AnalysisDataServiceTest ...................................................................................   Passed    7.48 sec
+          Start  212: AlgorithmsTest_ConvertDiffCalTest
+ 153/2592 Test  #212: AlgorithmsTest_ConvertDiffCalTest ............................................................................................................   Passed    1.36 sec
+          Start 2487: python.scripts.AbinsSDataTest.AbinsSDataTest
+ 154/2592 Test #2487: python.scripts.AbinsSDataTest.AbinsSDataTest .................................................................................................   Passed    2.47 sec
+          Start 1514: python.algorithms.FindGlobalBMatrixTest.FindGlobalBMatrixTest
+ 155/2592 Test #1509: python.algorithms.ExportSampleLogsToHDF5Test.ExportSampleLogsToHDF5Test ......................................................................   Passed    8.05 sec
+          Start  679: CurveFittingTest_PawleyFitTest
+ 156/2592 Test  #679: CurveFittingTest_PawleyFitTest ...............................................................................................................   Passed    1.14 sec
+          Start 2465: python.scripts.SettingsTest.SettingsTest
+ 157/2592 Test #1473: python.algorithms.ApplyDetectorScanEffCorrTest.ApplyDetectorScanEffCorrTest ..................................................................   Passed   37.90 sec
+          Start 2016: mantidqt_qt5.test_fitpropertybrowserplotinteraction.test_fitpropertybrowserplotinteraction
+ 158/2592 Test #2465: python.scripts.SettingsTest.SettingsTest .....................................................................................................   Passed    7.78 sec
+          Start  333: AlgorithmsTest_LineProfileTest
+ 159/2592 Test #2016: mantidqt_qt5.test_fitpropertybrowserplotinteraction.test_fitpropertybrowserplotinteraction ...................................................   Passed    8.05 sec
+          Start 2057: mantidqt_qt5.test_regionselector_presenter.test_regionselector_presenter
+ 160/2592 Test  #333: AlgorithmsTest_LineProfileTest ...............................................................................................................   Passed    1.75 sec
+          Start  386: AlgorithmsTest_PolarizationCorrectionFredrikzeTest
+ 161/2592 Test #2057: mantidqt_qt5.test_regionselector_presenter.test_regionselector_presenter .....................................................................   Passed    4.77 sec
+          Start   38: KernelTest_DynamicFactoryTest
+ 162/2592 Test   #38: KernelTest_DynamicFactoryTest ................................................................................................................   Passed    0.71 sec
+          Start 2245: python.MuonQt5.plot_model_fit_pane_presenter_test.plot_model_fit_pane_presenter_test
+ 163/2592 Test #2245: python.MuonQt5.plot_model_fit_pane_presenter_test.plot_model_fit_pane_presenter_test .........................................................   Passed    6.06 sec
+          Start 1589: python.algorithms.TOFTOFMergeRunsTest.TOFTOFMergeRunsTest
+ 164/2592 Test  #386: AlgorithmsTest_PolarizationCorrectionFredrikzeTest ...........................................................................................   Passed   17.17 sec
+          Start  360: AlgorithmsTest_MinusTest
+ 165/2592 Test  #360: AlgorithmsTest_MinusTest .....................................................................................................................   Passed    3.88 sec
+          Start  551: APITest_MultipleFilePropertyTest
+ 166/2592 Test #1589: python.algorithms.TOFTOFMergeRunsTest.TOFTOFMergeRunsTest ....................................................................................   Passed   12.47 sec
+          Start  569: APITest_SampleValidatorTest
+ 167/2592 Test  #551: APITest_MultipleFilePropertyTest .............................................................................................................   Passed    8.44 sec
+          Start 1382: python.geometry.PeakShapeTest.PeakShapeTest
+ 168/2592 Test  #569: APITest_SampleValidatorTest ..................................................................................................................   Passed    7.06 sec
+          Start  514: APITest_FunctionPropertyTest
+ 169/2592 Test #1514: python.algorithms.FindGlobalBMatrixTest.FindGlobalBMatrixTest ................................................................................   Passed   47.06 sec
+          Start 1313: NexusGeometryTest_JSONGeometryParserTest
+ 170/2592 Test #1313: NexusGeometryTest_JSONGeometryParserTest .....................................................................................................   Passed    0.86 sec
+          Start  517: APITest_GroupingLoaderTest
+ 171/2592 Test #1382: python.geometry.PeakShapeTest.PeakShapeTest ..................................................................................................   Passed    6.60 sec
+          Start 1945: MantidQtWidgetsCommonTestQt5_InterfaceManagerTest
+ 172/2592 Test  #514: APITest_FunctionPropertyTest .................................................................................................................   Passed    6.48 sec
+          Start 1409: python.api.FrameworkManagerTest.FrameworkManagerTest
+ 173/2592 Test #1945: MantidQtWidgetsCommonTestQt5_InterfaceManagerTest ............................................................................................   Passed    2.02 sec
+          Start  780: CurveFittingTest_MultivariateGaussianComptonProfileTest
+ 174/2592 Test  #780: CurveFittingTest_MultivariateGaussianComptonProfileTest ......................................................................................   Passed    1.11 sec
+          Start  928: DataHandlingTest_LoadRawBin0Test
+ 175/2592 Test #1651: python.WorkflowAlgorithms.LoadWANDTest.LoadWANDTest ..........................................................................................   Passed  245.66 sec
+          Start 1678: python.WorkflowAlgorithms.SANSILLParameterScanTest.SANSILLParameterScanTest
+ 176/2592 Test  #928: DataHandlingTest_LoadRawBin0Test .............................................................................................................   Passed    1.05 sec
+          Start  608: CrystalTest_ConvertPeaksWorkspaceTest
+ 177/2592 Test  #608: CrystalTest_ConvertPeaksWorkspaceTest ........................................................................................................   Passed    1.12 sec
+          Start 1799: PSISINQTest_PoldiSpectrumDomainFunctionTest
+ 178/2592 Test  #517: APITest_GroupingLoaderTest ...................................................................................................................   Passed    8.21 sec
+          Start  214: AlgorithmsTest_ConvertFromDistributionTest
+ 179/2592 Test  #214: AlgorithmsTest_ConvertFromDistributionTest ...................................................................................................   Passed    1.27 sec
+          Start 2525: PythonSANS.xml_parsing_test.xml_parsing_test
+ 180/2592 Test #1409: python.api.FrameworkManagerTest.FrameworkManagerTest .........................................................................................   Passed    8.31 sec
+          Start  884: DataHandlingTest_LoadIDFFromNexusTest
+ 181/2592 Test  #884: DataHandlingTest_LoadIDFFromNexusTest ........................................................................................................   Passed    1.59 sec
+          Start  377: AlgorithmsTest_PDFFourierTransformTest
+ 182/2592 Test #2525: PythonSANS.xml_parsing_test.xml_parsing_test .................................................................................................   Passed    2.56 sec
+          Start 1934: MantidQtWidgetsCommonTestQt5_FitOptionsBrowserTest
+ 183/2592 Test  #377: AlgorithmsTest_PDFFourierTransformTest .......................................................................................................   Passed    1.09 sec
+          Start 2121: python.MuonQt5.background_corrections_presenter_test.background_corrections_presenter_test
+ 184/2592 Test #1934: MantidQtWidgetsCommonTestQt5_FitOptionsBrowserTest ...........................................................................................   Passed    2.34 sec
+          Start 1770: python.Reflectometry.ReflectometryReductionOne2Test.ReflectometryReductionOne2Test
+ 185/2592 Test #1799: PSISINQTest_PoldiSpectrumDomainFunctionTest ..................................................................................................   Passed   10.92 sec
+          Start  993: DataHandlingTest_SaveNexusProcessedTest
+ 186/2592 Test #2448: python.scripts.CrystalFieldMultiSiteTest.CrystalFieldMultiSiteTest ...........................................................................   Passed  232.08 sec
+          Start  449: AlgorithmsTest_StripVanadiumPeaks2Test
+ 187/2592 Test #2121: python.MuonQt5.background_corrections_presenter_test.background_corrections_presenter_test ...................................................   Passed    7.31 sec
+          Start 1839: MDAlgorithmsTest_ConvertToDiffractionMDWorkspace3Test
+ 188/2592 Test  #993: DataHandlingTest_SaveNexusProcessedTest ......................................................................................................   Passed    3.36 sec
+          Start 1896: MDAlgorithmsTest_MinusMDTest
+ 189/2592 Test #1770: python.Reflectometry.ReflectometryReductionOne2Test.ReflectometryReductionOne2Test ...........................................................   Passed    7.41 sec
+          Start  803: CurveFittingTest_StretchExpTest
+ 190/2592 Test  #803: CurveFittingTest_StretchExpTest ..............................................................................................................   Passed    0.76 sec
+          Start 1159: GeometryTest_ParameterMapTest
+ 191/2592 Test #1896: MDAlgorithmsTest_MinusMDTest .................................................................................................................   Passed    3.01 sec
+          Start 2566: python.SANS.state.mask_test.mask_test
+ 192/2592 Test #1159: GeometryTest_ParameterMapTest ................................................................................................................   Passed    0.74 sec
+          Start  286: AlgorithmsTest_FFTDerivativeTest
+ 193/2592 Test  #449: AlgorithmsTest_StripVanadiumPeaks2Test .......................................................................................................   Passed    5.07 sec
+          Start 2291: PythonTOFTOFReductionQt5.TOFTOFScriptElementTest.TOFTOFScriptElementTest
+ 194/2592 Test  #286: AlgorithmsTest_FFTDerivativeTest .............................................................................................................   Passed    1.12 sec
+          Start   65: KernelTest_MDAxisValidatorTest
+ 195/2592 Test #2566: python.SANS.state.mask_test.mask_test ........................................................................................................   Passed    1.43 sec
+          Start  445: AlgorithmsTest_Stitch1DManyTest
+ 196/2592 Test   #65: KernelTest_MDAxisValidatorTest ...............................................................................................................   Passed    1.03 sec
+          Start   11: KernelTest_AttenuationProfileTest
+ 197/2592 Test #1839: MDAlgorithmsTest_ConvertToDiffractionMDWorkspace3Test ........................................................................................   Passed    5.93 sec
+          Start  830: DataHandlingTest_ApplyDiffCalTest
+ 198/2592 Test  #830: DataHandlingTest_ApplyDiffCalTest ............................................................................................................   Passed    0.87 sec
+          Start 1136: GeometryTest_MDHistoDimensionBuilderTest
+ 199/2592 Test   #11: KernelTest_AttenuationProfileTest ............................................................................................................   Passed    1.48 sec
+          Start 2390: MantidQtInterfacesIndirectTestQt5_IndirectFitPropertyBrowserTest
+ 200/2592 Test #1136: GeometryTest_MDHistoDimensionBuilderTest .....................................................................................................   Passed    0.70 sec
+          Start 2021: mantidqt_qt5.test_observing_presenter.test_observing_presenter
+ 201/2592 Test #2390: MantidQtInterfacesIndirectTestQt5_IndirectFitPropertyBrowserTest .............................................................................   Passed    4.87 sec
+          Start 1418: python.api.ITableWorkspaceTest.ITableWorkspaceTest
+ 202/2592 Test #2021: mantidqt_qt5.test_observing_presenter.test_observing_presenter ...............................................................................   Passed    7.84 sec
+          Start  795: CurveFittingTest_ResolutionTest
+ 203/2592 Test  #795: CurveFittingTest_ResolutionTest ..............................................................................................................   Passed    0.86 sec
+          Start 1024: DataObjectsTest_CoordTransformDistanceParserTest
+ 204/2592 Test #1024: DataObjectsTest_CoordTransformDistanceParserTest .............................................................................................   Passed    1.60 sec
+          Start 1432: python.api.PythonAlgorithmWorkspacePropertyTest.PythonAlgorithmWorkspacePropertyTest
+ 205/2592 Test #1432: python.api.PythonAlgorithmWorkspacePropertyTest.PythonAlgorithmWorkspacePropertyTest .........................................................   Passed    1.89 sec
+          Start 1088: GeometryTest_BraggScattererTest
+ 206/2592 Test #1088: GeometryTest_BraggScattererTest ..............................................................................................................   Passed    1.23 sec
+          Start 1948: MantidQtWidgetsCommonTestQt5_QtJSONUtilsTest
+ 207/2592 Test #1418: python.api.ITableWorkspaceTest.ITableWorkspaceTest ...........................................................................................   Passed    9.82 sec
+          Start 1754: ReflectometryTest_NRCalculateSlitResolutionTest
+ 208/2592 Test #1948: MantidQtWidgetsCommonTestQt5_QtJSONUtilsTest .................................................................................................   Passed    1.69 sec
+          Start  464: AlgorithmsTest_UnwrapMonitorTest
+ 209/2592 Test #1754: ReflectometryTest_NRCalculateSlitResolutionTest ..............................................................................................   Passed    1.17 sec
+          Start 2052: mantidqt_qt5.test_apply_all_properties.test_apply_all_properties
+ 210/2592 Test  #464: AlgorithmsTest_UnwrapMonitorTest .............................................................................................................   Passed    1.53 sec
+          Start  322: AlgorithmsTest_He3TubeEfficiencyTest
+ 211/2592 Test  #322: AlgorithmsTest_He3TubeEfficiencyTest .........................................................................................................   Passed    1.36 sec
+          Start  876: DataHandlingTest_LoadEventNexusIndexSetupTest
+ 212/2592 Test  #876: DataHandlingTest_LoadEventNexusIndexSetupTest ................................................................................................   Passed    1.19 sec
+          Start  887: DataHandlingTest_LoadILLPolarizationFactorsTest
+ 213/2592 Test #1678: python.WorkflowAlgorithms.SANSILLParameterScanTest.SANSILLParameterScanTest ..................................................................   Passed   42.86 sec
+          Start  900: DataHandlingTest_LoadLLBTest
+ 214/2592 Test  #887: DataHandlingTest_LoadILLPolarizationFactorsTest ..............................................................................................   Passed    1.69 sec
+          Start  524: APITest_IFunctionMDTest
+ 215/2592 Test  #900: DataHandlingTest_LoadLLBTest .................................................................................................................   Passed    1.26 sec
+          Start 1846: MDAlgorithmsTest_CreateMDHistoWorkspaceTest
+ 216/2592 Test #1846: MDAlgorithmsTest_CreateMDHistoWorkspaceTest ..................................................................................................   Passed    0.75 sec
+          Start   61: KernelTest_LiveListenerInfoTest
+ 217/2592 Test   #61: KernelTest_LiveListenerInfoTest ..............................................................................................................   Passed    1.02 sec
+          Start  924: DataHandlingTest_LoadPreNexusTest
+ 218/2592 Test #2291: PythonTOFTOFReductionQt5.TOFTOFScriptElementTest.TOFTOFScriptElementTest .....................................................................   Passed   26.65 sec
+          Start 1613: python.WorkflowAlgorithms.DetectorFloodWeightingTest.DetectorFloodWeightingTest
+ 219/2592 Test #2052: mantidqt_qt5.test_apply_all_properties.test_apply_all_properties .............................................................................   Passed    8.88 sec
+          Start   35: KernelTest_DiskBufferISaveableTest
+ 220/2592 Test   #35: KernelTest_DiskBufferISaveableTest ...........................................................................................................   Passed    1.12 sec
+          Start 2208: python.MuonQt5.list_selector_presenter_test.list_selector_presenter_test
+ 221/2592 Test #2208: python.MuonQt5.list_selector_presenter_test.list_selector_presenter_test .....................................................................   Passed    1.18 sec
+          Start  971: DataHandlingTest_SaveCSVTest
+ 222/2592 Test  #445: AlgorithmsTest_Stitch1DManyTest ..............................................................................................................   Passed   29.33 sec
+          Start 1849: MDAlgorithmsTest_CutMDTest
+ 223/2592 Test  #971: DataHandlingTest_SaveCSVTest .................................................................................................................   Passed    0.94 sec
+          Start 1643: python.WorkflowAlgorithms.IndirectTwoPeakFitTest.IndirectTwoPeakFitTest
+ 224/2592 Test  #524: APITest_IFunctionMDTest ......................................................................................................................   Passed    8.59 sec
+          Start  468: AlgorithmsTest_WeightedMeanOfWorkspaceTest
+ 225/2592 Test  #924: DataHandlingTest_LoadPreNexusTest ............................................................................................................   Passed    6.77 sec
+          Start 2025: mantidqt_qt5.test_waterfallplotoffsetdialogpresenter.test_waterfallplotoffsetdialogpresenter
+ 226/2592 Test  #468: AlgorithmsTest_WeightedMeanOfWorkspaceTest ...................................................................................................   Passed    1.05 sec
+          Start  457: AlgorithmsTest_TOFSANSResolutionByPixelTest
+ 227/2592 Test  #457: AlgorithmsTest_TOFSANSResolutionByPixelTest ..................................................................................................   Passed    0.91 sec
+          Start  914: DataHandlingTest_LoadNexusLogsTest
+ 228/2592 Test #1613: python.WorkflowAlgorithms.DetectorFloodWeightingTest.DetectorFloodWeightingTest ..............................................................   Passed    8.42 sec
+          Start 1006: DataHandlingTest_SaveStlTest
+ 229/2592 Test #1006: DataHandlingTest_SaveStlTest .................................................................................................................   Passed    0.88 sec
+          Start 1717: python.functions.MsdGaussTest.MsdGaussTest
+ 230/2592 Test #2025: mantidqt_qt5.test_waterfallplotoffsetdialogpresenter.test_waterfallplotoffsetdialogpresenter .................................................   Passed    3.68 sec
+          Start  861: DataHandlingTest_LoadAsciiStlTest
+ 231/2592 Test  #914: DataHandlingTest_LoadNexusLogsTest ...........................................................................................................   Passed    3.01 sec
+          Start 1115: GeometryTest_GridDetectorTest
+ 232/2592 Test  #861: DataHandlingTest_LoadAsciiStlTest ............................................................................................................   Passed    1.35 sec
+          Start 1443: python.api.WorkspaceUnaryOpsTest.WorkspaceUnaryOpsTest
+ 233/2592 Test #1115: GeometryTest_GridDetectorTest ................................................................................................................   Passed    0.93 sec
+          Start 1702: python.functions.DampedBesselTest.DampedBesselTest
+ 234/2592 Test #1443: python.api.WorkspaceUnaryOpsTest.WorkspaceUnaryOpsTest .......................................................................................   Passed    7.69 sec
+          Start  108: KernelTest_ShrinkToFitTest
+ 235/2592 Test  #108: KernelTest_ShrinkToFitTest ...................................................................................................................   Passed    1.00 sec
+          Start 1451: python.plots.plotfunctionsTest.plotfunctionsTest
+ 236/2592 Test #1702: python.functions.DampedBesselTest.DampedBesselTest ...........................................................................................   Passed    8.56 sec
+          Start 1531: python.algorithms.LeadPressureCalcTest.LeadPressureCalcTest
+ 237/2592 Test #1849: MDAlgorithmsTest_CutMDTest ...................................................................................................................   Passed   22.59 sec
+          Start 1497: python.algorithms.DNSMergeRunsTest.DNSMergeRunsTest
+ 238/2592 Test #1531: python.algorithms.LeadPressureCalcTest.LeadPressureCalcTest ..................................................................................   Passed    8.41 sec
+          Start 2028: mantidqt_qt5.test_codecommenter.test_codecommenter
+ 239/2592 Test #2028: mantidqt_qt5.test_codecommenter.test_codecommenter ...........................................................................................   Passed    2.42 sec
+          Start 1403: python.api.CompositeFunctionTest.CompositeFunctionTest
+ 240/2592 Test  #648: CrystalTest_SCDCalibratePanelsTest ...........................................................................................................***Timeout 300.00 sec
+FrameworkManager-[Notice] Welcome to Mantid 6.4.20220908.1252
+FrameworkManager-[Notice] Please cite: http://dx.doi.org/10.1016/j.nima.2014.07.029 and this release: http://dx.doi.org/10.5286/Software/Mantid
+Running 1 testLoadIsawPeaks-[Notice] LoadIsawPeaks started
+LoadIsawPeaks-[Error] Can't execute MaskBTP algorithm
+LoadIsawPeaks-[Notice] LoadIsawPeaks successful, Duration 45.38 seconds
+SCDCalibratePanels-[Notice] SCDCalibratePanels started
+IndexPeaks-[Warning] Peaks from only one run exist but CommonUBForAll=True so peaks will be indexed with an optimised UB which will not be saved in the workspace.
+IndexPeaks-[Notice] Run 5637 indexed 39 peaks out of 39 with tolerance of 0.15
+IndexPeaks-[Notice]   Average error in h,k,l for indexed peaks =  0.0156883
+IndexPeaks-[Notice] All runs indexed 39 peaks out of 39 with tolerance of 0.15
+IndexPeaks-[Notice]   Average error in h,k,l for indexed peaks =  0.0156883
+IndexPeaks-[Notice] Lattice Parameters:    4.750000    4.750000   13.000000   90.000000   90.000000  120.000000   254.016076
+SCDCalibratePanels-[Notice] Number Indexed = 39
+SCDCalibratePanels-[Notice] Matrix(3,3)0.204218,0.180529,0.0303356,0.13154,-0.0445204,-0.050603,-0.00934556,0.156596,-0.0493584
+SCDCalibratePanels-[Notice] L1 = 17.9691  Changes in function value are too small Chi2overDoF 0.000380926
+SCDCalibratePanels-[Notice] bank47  success Chi2overDoF 0.326124
+
+          Start  648: CrystalTest_SCDCalibratePanelsTest

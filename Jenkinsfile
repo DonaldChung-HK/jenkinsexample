@@ -14,9 +14,7 @@ pipeline {
 	stages {
         stage('Build') {
             steps {
-                cmake arguments: '-DCMAKE_TOOLCHAIN_FILE=~/x64-linux.cmake', installation: 'InSearchPath'
-                cmakeBuild buildType: 'Release', cleanBuild: true, installation: 'InSearchPath', steps: [[withCmake: true]]
-                ctest 'InSearchPath'
+                cat ./Multiline-log.txt
                 logstashSend failBuild: false, maxLines: 100000
             }
         }
