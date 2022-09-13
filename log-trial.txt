@@ -1,0 +1,32 @@
+[2022-09-13T01:19:02.361Z]  588/2635 Test  #982: DataHandlingTest_SaveGDATest .................................................................................................................   Passed    1.10 sec
+[2022-09-13T01:19:02.361Z]           Start 1488: python.algorithms.CorrectTOFTest.CorrectTOFTest
+[2022-09-13T01:19:05.082Z]  589/2635 Test #2388: MantidScientificInterfacesISISReflectometryTestQt5_RunsTablePresenterGroupDeletionTest .......................................................   Passed    3.38 sec
+[2022-09-13T01:19:05.083Z]           Start 1981: MantidQtWidgetsInstrumentWidgetTestQt5_InstrumentWidgetEncoderTest
+[2022-09-13T01:19:05.083Z]  590/2635 Test #1634: python.WorkflowAlgorithms.IndirectFlatPlateAbsorption2Test.IndirectFlatPlateAbsorption2Test ..................................................   Passed   11.83 sec
+[2022-09-13T01:19:05.083Z]           Start 1974: MantidQtWidgetsMplCppTestQt5_QBackendExtractTest
+[2022-09-13T01:19:07.026Z]  591/2635 Test #2558: python.SANS.algorithm_detail.move_sans_instrument_component_test.move_sans_instrument_component_test .........................................   Passed   15.65 sec
+[2022-09-13T01:19:07.026Z]           Start 1219: HistogramDataTest_EstimatePolynomialTest
+[2022-09-13T01:19:07.622Z]  592/2635 Test #1219: HistogramDataTest_EstimatePolynomialTest .....................................................................................................   Passed    0.59 sec
+[2022-09-13T01:19:07.622Z]           Start 2120: python.MuonQt5.background_corrections_model_test.background_corrections_model_test
+[2022-09-13T01:19:07.855Z] [ 40%] 280/691 : VesuvioCommandsTest.FitSingleSpectrumBivariateGaussianTiesTest ......................................... (success: 439.23s)
+[2022-09-13T01:19:08.219Z]  593/2635 Test  #378: AlgorithmsTest_PaalmanPingsAbsorptionCorrectionTest ..........................................................................................   Passed   10.21 sec
+[2022-09-13T01:19:08.219Z]           Start  701: CurveFittingTest_EigenComplexVectorTest
+[2022-09-13T00:18:12.139Z]    2/2636 Test  #955: DataHandlingTest_NexusTesterTest .............................................................................................................***Failed    8.94 sec
+[2022-09-13T00:18:12.139Z] FrameworkManager-[Notice] Welcome to Mantid 6.4.20220912.1732
+[2022-09-13T00:18:12.139Z] FrameworkManager-[Notice] Please cite: http://dx.doi.org/10.1016/j.nima.2014.07.029 and this release: http://dx.doi.org/10.5286/Software/Mantid
+[2022-09-13T00:18:12.139Z] Running 2 tests.NexusTester-[Notice] NexusTester started
+[2022-09-13T00:18:12.139Z] NexusTester-[Notice] Data size is 0.195312 MB
+[2022-09-13T00:18:12.139Z] NexusTester-[Notice]  0.0097 s, CPU 0.00 to save the file = 20.0972 MB/sec
+[2022-09-13T00:18:12.139Z] NexusTester-[Notice] File size is 9.15527e-05 MB
+[2022-09-13T00:18:12.139Z] NexusTester-[Notice]  0.0020 s, CPU 0.00 to load the file = 96.9774 MB/sec (data), 0.0454582 MB/sec (file)
+[2022-09-13T00:18:12.139Z] NexusTester-[Notice] NexusTester successful, Duration 0.03 seconds
+[2022-09-13T00:18:12.139Z] 
+[2022-09-13T00:18:12.139Z] In NexusTesterTest::test_exec:
+[2022-09-13T00:18:12.139Z] C:/Jenkins/workspace/release-next_nightly_deployment/Framework/DataHandling/test/NexusTesterTest.h:33: Error: Test failed: File access error
+[2022-09-13T00:18:12.139Z] Failed 1 of 2 tests
+[2022-09-13T00:18:12.139Z] Success rate: 50%
+[2022-09-13T00:18:12.139Z] Access violation
+[2022-09-13T00:18:12.139Z] 
+[2022-09-13T00:18:12.139Z]           Start  955: DataHandlingTest_NexusTesterTest
+[2022-09-13T00:18:12.850Z] [3375/4550] Building CXX object Framework/DataObjects/test/CMakeFiles/DataObjectsTest.dir/PeakShapeSphericalFactoryTest.cpp.o
+[2022-09-13T00:18:13.882Z] [1503/4550] Building CXX object Framework/Kernel/test/CMakeFiles/KernelTest.dir/BinaryFileTest.cpp.o
