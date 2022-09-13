@@ -14,7 +14,7 @@ pipeline {
 	stages {
         stage('Build') {
             steps {
-                sh "./build.sh"
+                sh "sudo ./build.sh"
                 logstashSend failBuild: false, maxLines: 100000
             }
         }
