@@ -14,7 +14,10 @@ pipeline {
 	stages {
         stage('Build') {
             steps {
-                sh "cat ./Multiline-log.txt"
+                sh "
+				sudo apt install -y xvfb
+				run_with_xvfb cat ./Multiline-log.txt
+				terminate_xvfb_sessions"
                 logstashSend failBuild: false, maxLines: 100000
             }
         }
