@@ -14,7 +14,10 @@ pipeline {
 	stages {
         stage('Build') {
             steps {
-                sh "./build.sh"
+                sh """
+				xvfb-run -e /dev/stderr --server-args="-core -noreset -screen 0 640x480x24" --server-num=101 cat ./Multiline-log.txt
+				killall Xvfb || true
+				"""
                 logstashSend failBuild: false, maxLines: 100000
             }
         }
